@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s\\GIT\\storyBoris\\AMEP_DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0992B5-B6F6-4A27-88B3-32AFB7900D43}|AMEP_DB.vcxproj|C:\\Users\\s\\GIT\\storyBoris\\AMEP_DB\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C0992B5-B6F6-4A27-88B3-32AFB7900D43}|AMEP_DB.vcxproj|solutionrelative:Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0992B5-B6F6-4A27-88B3-32AFB7900D43}|AMEP_DB.vcxproj|C:\\Users\\s\\GIT\\storyBoris\\AMEP_DB\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{8C0992B5-B6F6-4A27-88B3-32AFB7900D43}|AMEP_DB.vcxproj|solutionrelative:Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0992B5-B6F6-4A27-88B3-32AFB7900D43}|AMEP_DB.vcxproj|C:\\Users\\s\\GIT\\storyBoris\\AMEP_DB\\MainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{8C0992B5-B6F6-4A27-88B3-32AFB7900D43}|AMEP_DB.vcxproj|solutionrelative:MainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.h",
+              "DocumentMoniker": "C:\\Users\\s\\GIT\\storyBoris\\AMEP_DB\\Form1.h",
+              "RelativeDocumentMoniker": "Form1.h",
+              "ToolTip": "C:\\Users\\s\\GIT\\storyBoris\\AMEP_DB\\Form1.h",
+              "RelativeToolTip": "Form1.h",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAWwDEBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-17T19:14:15.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\s\\GIT\\storyBoris\\AMEP_DB\\Form1.h",
+              "RelativeDocumentMoniker": "Form1.h",
+              "ToolTip": "C:\\Users\\s\\Desktop\\VS2\\storyBoris-ModificarPerfil\\AMEP_DB\\Form1.h [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\VS2\\storyBoris-ModificarPerfil\\AMEP_DB\\Form1.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-17T19:14:02.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainScreen.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\s\\GIT\\storyBoris\\AMEP_DB\\MainScreen.h",
+              "RelativeDocumentMoniker": "MainScreen.h",
+              "ToolTip": "C:\\Users\\s\\Desktop\\VS2\\storyBoris-ModificarPerfil\\AMEP_DB\\MainScreen.h [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\VS2\\storyBoris-ModificarPerfil\\AMEP_DB\\MainScreen.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-17T19:14:00.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

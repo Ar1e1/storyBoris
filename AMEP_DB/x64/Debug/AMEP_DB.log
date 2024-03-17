@@ -1,0 +1,8 @@
+﻿  CppCLR_WinFormsProject.cpp
+  EspaiEstudi.cpp
+  Form1.cpp
+  MyForm1.cpp
+  MyForm11.cpp
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  AMEP_DB.vcxproj -> C:\Users\mft19\source\repos\QueryQueens\storyBoris\AMEP_DB\x64\Debug\AMEP_DB.exe
